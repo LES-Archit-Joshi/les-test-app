@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
           Learn React - Dev A was here
           Learn React - Dev B was here
+          A added code that should go on the server
         </p>
         <a
           className="App-link"
